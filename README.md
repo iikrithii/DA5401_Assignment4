@@ -1,4 +1,7 @@
-# DA5401 A4 — Gaussian Mixture Model (GMM) Based Synthetic Sampling
+# DA5401 A4 : Gaussian Mixture Model (GMM) Based Synthetic Sampling
+
+*Name*: Krithi Shailya
+*Roll Number*: DA25S009
 
 This repository contains the solution for the **DA5401 Assignment 4 (A4)** on **Gaussian Mixture Models (GMMs) and Imbalanced Data Handling**.
 
